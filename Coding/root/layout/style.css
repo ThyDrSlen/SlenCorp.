@@ -1,0 +1,108 @@
+#container {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: blue;
+}
+
+#logo {
+    font-size: 400%;
+    color: orange;
+    background-color: gray;
+    width: 430px;
+    padding: 15px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+#nav {
+    color: lightblue;
+    background-color: magenta;
+    display: inline-block;
+    width: 400px;
+    margin-left: 10px;
+    padding: 30px;
+    height: 43px;
+}
+
+#header {
+    background-color: blue;
+    padding: 8px;
+}
+
+
+/*---------------------Content Section-----------------*/
+
+#content {
+    background-color: lightyellow;
+    width: 944px;
+    padding: 8px;
+}
+
+.p1 {
+    color: red;
+    width: 270px;
+    background-color: orange;
+    display: inline-block;
+    vertical-align: top;
+    margin: auto;
+    padding: 15px;
+    margin-left: 8px;
+}
+
+.p2 {
+    color: green;
+    width: 250px;
+    background-color: lightblue;
+    margin-left: 8px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
+}
+
+.p3 {
+    color: blue;
+    width: 230px;
+    margin-left: 8px;
+    vertical-align: top;
+    background-color: teal;
+    padding: 35px;
+    display: inline-block;
+}
+
+.p4 {
+    width: 360px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 8px;
+    background-color: green;
+    padding: 50px;
+}
+
+.p5 {
+    width: 170px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 8px;
+    padding: 25px;
+    background-color: purple;
+}
+
+.p6 {
+    width: 170px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 8px;
+    padding: 25px;
+    background-color: red;
+}
+
+body {
+    background-color: grey;
+}
+
+
+/*jokesaboutmycode*/
+
+
+/* I would roast you but I don't have a big enough oven*/
